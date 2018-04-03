@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'brandon_textlight';
+    src: url('hvd_fonts_-_brandontext-light-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+    }
+@font-face {
+    font-family: 'brandon_textbold';
+    src: url('hvd_fonts_-_brandontext-bold-webfont.woff2') format('woff2'),
+         url('hvd_fonts_-_brandontext-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.heading {
+	font-family:'Brandon Text';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 50px
+	
+
+	
+}
+.nav {
+	font-family: 'Brandon Text';
+	font-weight: lighter;
+    font-style: normal; 
+	font-size: 14px;
+	text-decoration: none;
+	list-style-type: none; 
+	float: right; 
+	margin: 10px; 
+	padding: 10px; 
+	text-decoration: none;
+}
+.aside {
+	font-family: 'Brandon Text'; 
+	font-weight: lighter; 
+	font-size: 15px;
+	list-style-type: none; 
+	text-decoration: none; 
+	margin: 10px;
+	padding: 10px;
+}
+.section {
+margin-top: -170px;
+margin-bottom: 50px;	
+}
+.date {
+	font-family: 'Brandon Text'; 
+	font-weight: lighter;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+	margin-left: 500px
+
+    
+}
+.title {
+	font-family: 'Brandon Text'; 
+	font-weight: bold; 
+	margin-left: 500px	
+}
+.text {
+	font-family: 'Brandon Text';
+	font-weight: lighter;
+	text-decoration: none;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+	margin-left: 500px
+
+}
+.footer {
+	font-family: Brandon Text; 
+	font-weight: lighter; 
+	font-size: 12px
+}
